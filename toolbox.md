@@ -104,6 +104,17 @@ A monitoring framework written in Ruby that aims to be simple, malleable, and sc
 ###[Bosun](http://bosun.org/)
 Bosun is an open-source, MIT licensed, monitoring and alerting system by Stack Exchange. It has an expressive domain specific language for evaluating alerts and creating detailed notifications. It also lets you test your alerts against history for a faster development experience.
 
+###[Circle-CI](https://circleci.com/about) 
+**Used by:** Shopify, Cisco, Sony  
+CircleCI provides development teams the confidence to build, test, and deploy—quickly and consistently—across numerous platforms. Built to address the demanding needs of today's application development environments, CircleCI supports every component of a modern application, including mobile apps (iOS and Android), conventional web applications (built with platforms like Rails and Django), browser-based apps (built with frameworks like AngularJS and Ember), and containerized apps (built with tools like Docker).
+
+###[Hound](https://houndci.com/repos)  
+**Developer:** Thoughtbot  
+Hound, a hosted service that reviews GitHub pull requests for Ruby, JavaScript, CoffeeScript, and SCSS style guide violations.
+
+###[Codeship](https://codeship.com/)  
+Hosted Continuous integration and delivery service. Supports parallel runs, ACL's, good integration with 3rd party services.
+
 ##DNS:
 
 ###[Unbound](http://unbound.net/)
